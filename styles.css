@@ -1,0 +1,178 @@
+.error {
+    color: #A80000;
+}
+
+.success {
+    color: #006600;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+header {
+    background-color: #ff710030;
+    border: double black 5px;
+    padding: 10px;
+    color: #404040;
+}
+
+footer {
+    background-color: #ff710030;
+    border: double black 5px;
+    color: #404040;
+}
+
+body {
+    background-color: #ff7f1942;
+}
+
+header nav a:link {
+    color: #ff7f19;
+    border: black 1px solid;
+    padding: 4px;
+    margin: 4px;
+}
+
+
+header nav a:hover {
+    color: #ff7f19;
+    font-weight: bold;
+    text-decoration: underline;
+    border: black 1px solid;
+}
+
+header nav a:active {
+    color: #ff7f19;
+    font-weight: bolder;
+    text-decoration: underline;
+    background: #ffffff;
+    border: black 1px solid;
+}
+
+a:link {
+    color: #000000;
+    font-weight: bold;
+
+}
+
+
+a:hover{
+    color: #031f52;
+    font-weight: bold;
+}
+
+a:active {
+    color: #ff7f19;
+    font-weight: bolder;
+}
+
+table, th, td {
+    border: 2px solid;
+    text-align: center;
+}
+
+nav a {
+    background: #ffffff;
+    border: black 1px solid;
+    color: #ff7f19;
+}
+
+header nav {
+    color: #ff7f19;
+    padding: 10px;
+    margin: 10px;
+    border: black 2px solid;
+    background-color: #ffffff;
+}
+
+.titlediv {
+    padding-left: 10px;
+    padding-top: 8px;
+    color: #404040;
+}
+
+.bodydiv1 {
+    padding: 12px;
+    background-color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.abt-bodydiv1 {
+    background-color: white;
+    border: black 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.abt-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.hdr-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.abt-bodydivh2 {
+    padding-left: 10px;
+    padding-top: 6px;
+    text-align: center;
+}
+
+.abt-bodyp1 {
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: center
+}
+
+.abt-bodyp2 {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+
+.ftr {
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
+
+.logout-body {
+    background-color: white;
+    border: black 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 12px;
+    margin-right: 12px;
+    text-align: center;
+    padding: 10px;
+}
+
+.login-form {
+    background-color: white;
+    border: black 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 10px;
+}
